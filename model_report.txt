@@ -1,0 +1,4 @@
+MCRMSE (Validation): 0.7198
+reactivity için RMSE: 0.7036
+deg_Mg_pH10 için RMSE: 0.6061
+deg_Mg_50C için RMSE: 0.8498
